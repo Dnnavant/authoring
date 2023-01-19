@@ -28,8 +28,8 @@
 
 #Check Boxes
 
-{} External Link
-{} Internal Link
-{} Images
-{} Emojis
-{} Tables
+[x] External Link
+[x] Internal Link
+[x] Images
+[x] Emojis
+[x] Tables
