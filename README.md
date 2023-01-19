@@ -26,7 +26,7 @@
 | Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
 
 
-#Check Boxes
+## Check Boxes
 
 [x] External Link
 [x] Internal Link
